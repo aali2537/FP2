@@ -17,7 +17,4 @@ For my second exploration project, I decided to take a look at the browser libra
 ### Output:
 ![Preference Page](https://cloud.githubusercontent.com/assets/11621186/6911940/0d028266-d736-11e4-8c0e-0d86ec84c302.jpg)
  ![Browser Opened from code](https://cloud.githubusercontent.com/assets/11621186/6912061/16a9d1aa-d738-11e4-842a-8826242bffd3.jpg)
-* a narrative of what you did
-* the code that you wrote
-* output from your code demonstrating what it produced
-* any diagrams or figures explaining your work 
+
